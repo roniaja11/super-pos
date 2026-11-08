@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SUPER POS</string>
+    <string name="nav_pos">Kasir</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_inventory">Produk &amp; Stok</string>
+    <string name="nav_transactions">Transaksi</string>
+    <string name="nav_management">Manajemen</string>
+    <string name="search_product_hint">Cari nama produk, kode SKU, atau scan barcode…</string>
+    <string name="pay_now">Bayar Sekarang</string>
+    <string name="hold_order">Simpan / Hold</string>
+    <string name="empty_cart">Keranjang belanja masih kosong</string>
+    <string name="open_shift">Buka Shift Kasir</string>
+    <string name="close_shift">Tutup Shift &amp; Audit Kas</string>
+</resources>
